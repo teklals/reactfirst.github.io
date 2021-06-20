@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactfirst.github.io/static/css/main.f1edd476.chunk.css",
+    "main.js": "/reactfirst.github.io/static/js/main.b5087199.chunk.js",
+    "main.js.map": "/reactfirst.github.io/static/js/main.b5087199.chunk.js.map",
+    "runtime-main.js": "/reactfirst.github.io/static/js/runtime-main.0b0e735e.js",
+    "runtime-main.js.map": "/reactfirst.github.io/static/js/runtime-main.0b0e735e.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/reactfirst.github.io/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.634877bf.chunk.js": "/reactfirst.github.io/static/js/2.634877bf.chunk.js",
+    "static/js/2.634877bf.chunk.js.map": "/reactfirst.github.io/static/js/2.634877bf.chunk.js.map",
+    "index.html": "/reactfirst.github.io/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/reactfirst.github.io/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.f1edd476.chunk.css.map": "/reactfirst.github.io/static/css/main.f1edd476.chunk.css.map",
+    "static/js/2.634877bf.chunk.js.LICENSE.txt": "/reactfirst.github.io/static/js/2.634877bf.chunk.js.LICENSE.txt",
+    "static/media/A-1.b5cd50dd.jpg": "/reactfirst.github.io/static/media/A-1.b5cd50dd.jpg",
+    "static/media/A-2.ec92bcd5.jpg": "/reactfirst.github.io/static/media/A-2.ec92bcd5.jpg",
+    "static/media/B-1.5ff5128d.jpg": "/reactfirst.github.io/static/media/B-1.5ff5128d.jpg",
+    "static/media/B-2.d14ef81b.jpg": "/reactfirst.github.io/static/media/B-2.d14ef81b.jpg",
+    "static/media/C-1.2881d25d.jpg": "/reactfirst.github.io/static/media/C-1.2881d25d.jpg",
+    "static/media/C-2.99cb1907.jpg": "/reactfirst.github.io/static/media/C-2.99cb1907.jpg",
+    "static/media/brazil.a938dc5c.png": "/reactfirst.github.io/static/media/brazil.a938dc5c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b0e735e.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.634877bf.chunk.js",
+    "static/css/main.f1edd476.chunk.css",
+    "static/js/main.b5087199.chunk.js"
+  ]
+}
